@@ -41,7 +41,7 @@
 
 ---
 
-### 🤔 **About Me**
+### 👨‍💻 **About Me**
 Hi there!  
 I’m **Chiranjeewa Peellawatta**, a passionate **Software Engineering** undergraduate from **Sri Lanka**! 🎓  
 I specialize in **Full-Stack Development** and have a strong interest in emerging technologies, with a particular focus on the **MERN stack**. I love experimenting with **old Android devices** and contributing to open-source projects.  
