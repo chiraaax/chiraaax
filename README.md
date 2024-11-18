@@ -11,7 +11,7 @@ I’m a 2nd-year undergraduate in **Software Engineering** at [SLIIT](https://ww
 <h1 align="center"> 🏆 GitHub Trophies </h1>
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChiranjeewaPeellawatta&theme=gruvbox" alt="GitHub Trophies" />
+   [ <img src="https://github-profile-trophy.vercel.app/?username=ChiranjeewaPeellawatta&theme=gruvbox" alt="GitHub Trophies" />](https://github-profile-trophy.vercel.app/?username=ChiranjeewaPeellawatta&theme=Dark)
   </a> 
 </p>
 
