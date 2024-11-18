@@ -3,16 +3,18 @@
 
 💡 _"Code. Learn. Build. Innovate."_  
 
-<!-- Trophies -->
-<h1 align="center"> 🏆 GitHub Trophies </h1>
-<p align="left"> 
+---
+
+### 🏆 **GitHub Trophies**
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChiranjeewaPeellawatta&theme=gruvbox" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ChiranjeewaPeellawatta&theme=gruvbox&column=7" alt="GitHub Trophies" />
   </a> 
 </p>
 
-<!-- Social icons -->
-<h1 align="center"> 🌐 Social Media </h1>
+---
+
+### 🌐 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/chiranjeewa-lankeshwara-453866305/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -37,23 +39,22 @@
   </a>
 </p>
 
-<!-- About Me Section -->
-<h2 align="center"> 🤔 About Me 👨‍💻 </h2>
+---
 
-Hi there! <br />
+### 🤔 **About Me**
+Hi there!  
 I’m **Chiranjeewa Peellawatta**, a passionate **Software Engineering** undergraduate from **Sri Lanka**! 🎓  
-I love **full-stack development**, exploring **new technologies**, and experimenting with **old Android devices**.  
-I aim to become an expert in **Full Stack Development**, particularly focusing on the **MERN stack**. 🚀  
+I specialize in **Full-Stack Development** and have a strong interest in emerging technologies, with a particular focus on the **MERN stack**. I love experimenting with **old Android devices** and contributing to open-source projects.  
 
-- 🔭 I’m currently working on [OnlineEduX - Online Examination Management System](https://github.com/ChiranjeewaPeellawatta/OnlineEduX---Online_Examination_Management_System)  
-- 🌱 I’m currently learning advanced **React**, **Node.js**, and **MongoDB**.  
-- 💬 Ask me about anything tech-related — I’m always happy to help!  
-- 🎵 Fun Fact: I enjoy collecting Android devices and relaxing with some good Spotify tunes.  
+- 🔭 **Currently Working On**: [OnlineEduX - Online Examination Management System](https://github.com/ChiranjeewaPeellawatta/OnlineEduX---Online_Examination_Management_System)  
+- 🌱 **Currently Learning**: Advanced **React**, **Node.js**, **MongoDB**, **PHP**, **MySQL**  
+- 🧠 **Fun Fact**: I’m a vintage Android device collector and a music enthusiast. I unwind by listening to Spotify while coding! 🎵  
 
-<!-- Technologies -->
-<h1 align="center"> ⚡ Technologies & Tools </h1>
+---
 
-<h3 align="center"> 💻 Languages </h3>
+### ⚡ **Technologies & Tools**
+
+#### 💻 **Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -61,34 +62,39 @@ I aim to become an expert in **Full Stack Development**, particularly focusing o
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-<h3 align="center"> 🛠️ Tools </h3>
+#### 🛠️ **Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<h3 align="center"> 🚀 Frameworks & Libraries </h3>
+#### 🚀 **Frameworks & Libraries**
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
-<!-- Stats -->
-<h1 align="center"> 📊 GitHub Stats </h1>
+---
+
+### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChiranjeewaPeellawatta&show_icons=true&theme=tokyonight" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjeewaPeellawatta&layout=compact&theme=tokyonight" height="180px" />
 </p>
 
-<!-- Projects -->
-<h1 align="center"> 📂 Top Projects </h1>
+---
+
+### 📂 **Top Projects**
 <p align="center">
   <a href="https://github.com/ChiranjeewaPeellawatta/Wild_Life_Safari_Management_System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiranjeewaPeellawatta&repo=Wild_Life_Safari_Management_System&theme=tokyonight" />
@@ -96,21 +102,23 @@ I aim to become an expert in **Full Stack Development**, particularly focusing o
   <a href="https://github.com/ChiranjeewaPeellawatta/MernPro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiranjeewaPeellawatta&repo=MernPro&theme=tokyonight" />
   </a>
+  <a href="https://github.com/ChiranjeewaPeellawatta/OnlineEduX---Online_Examination_Management_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiranjeewaPeellawatta&repo=OnlineEduX---Online_Examination_Management_System&theme=tokyonight" />
+  </a>
 </p>
 
-<!-- Activity Graph -->
-<h1 align="center"> 🔥 Contribution Graph </h1>
+---
+
+### 🔥 **Contribution Graph**
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiranjeewaPeellawatta&theme=tokyo-night" />
   </a>
 </p>
 
+---
 
+### **✨ Let's Build Something Amazing Together!**
+Feel free to connect and collaborate on exciting tech projects!  
 
-
-<!---
-ChiranjeewaPeellawatta/ChiranjeewaPeellawatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+*"The best way to predict the future is to create it."* 🚀
