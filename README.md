@@ -1,5 +1,5 @@
 <!-- Header with profile GIF -->
-<a href="https://github.com/ChiranjeewaPeellawatta">![Chiranjeewa's Profile GIF](./assets/profile_presentation.gif)</a><br>
+<a href="https://github.com/ChiranjeewaPeellawatta">![Chiranjeewa's Profile GIF](./assets/profile_presentation.gif)</a> <br><br>
 
 💡 _"Code. Learn. Build. Innovate."_  
 
@@ -41,7 +41,7 @@
 
 ---
 
-### 👨‍💻 **About Me**
+### 🤔 **About Me**
 Hi there!  
 I’m **Chiranjeewa Peellawatta**, a passionate **Software Engineering** undergraduate from **Sri Lanka**! 🎓  
 I specialize in **Full-Stack Development** and have a strong interest in emerging technologies, with a particular focus on the **MERN stack**. I love experimenting with **old Android devices** and contributing to open-source projects.  
@@ -63,16 +63,25 @@ I specialize in **Full-Stack Development** and have a strong interest in emergin
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
-#### 🛠️ **Tools**
+#### 🛠️ **Tools & Environments**
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEV_C++-3C3F5D?style=for-the-badge&logo=dev-c&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeBlocks-000000?style=for-the-badge&logo=codeblocks&logoColor=white" />
+  <img src="https://img.shields.io/badge/StarUML-8A42F2?style=for-the-badge&logo=staruml&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMU8086-FF9100?style=for-the-badge&logo=emu8086&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kompozer-0055A4?style=for-the-badge&logo=kompozer&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoffeeCup-006F82?style=for-the-badge&logo=coffee-cup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A1?style=for-the-badge&logo=wireshark&logoColor=white" />
 </p>
 
 #### 🚀 **Frameworks & Libraries**
@@ -94,31 +103,21 @@ I specialize in **Full-Stack Development** and have a strong interest in emergin
 
 ---
 
-### 📂 **Top Projects**
+### 🔗 **Projects**
 <p align="center">
   <a href="https://github.com/ChiranjeewaPeellawatta/Wild_Life_Safari_Management_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiranjeewaPeellawatta&repo=Wild_Life_Safari_Management_System&theme=tokyonight" />
+    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaPeellawatta&repo=Wild_Life_Safari_Management_System" />
   </a>
   <a href="https://github.com/ChiranjeewaPeellawatta/MernPro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiranjeewaPeellawatta&repo=MernPro&theme=tokyonight" />
+    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaPeellawatta&repo=MernPro" />
   </a>
   <a href="https://github.com/ChiranjeewaPeellawatta/OnlineEduX---Online_Examination_Management_System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiranjeewaPeellawatta&repo=OnlineEduX---Online_Examination_Management_System&theme=tokyonight" />
+    <img src="https://github-readme-projects.vercel.app/api/projects?username=ChiranjeewaPeellawatta&repo=OnlineEduX---Online_Examination_Management_System" />
   </a>
 </p>
 
 ---
 
-### 🔥 **Contribution Graph**
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiranjeewaPeellawatta&theme=tokyo-night" />
-  </a>
-</p>
+### 💬 **Let's Collaborate!**
+Feel free to reach out for collaboration, project discussions, or any inquiries. I’m always excited to work on new ideas! 💬
 
----
-
-### **✨ Let's Build Something Amazing Together!**
-Feel free to connect and collaborate on exciting tech projects!  
-
-*"The best way to predict the future is to create it."* 🚀
