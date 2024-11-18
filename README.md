@@ -1,5 +1,5 @@
 <!-- Header with profile GIF -->
-<a href="https://github.com/ChiranjeewaPeellawatta">![Chiranjeewa's Profile GIF](./assets/profile_presentation.gif)</a> <br><br>
+<a href="https://github.com/ChiranjeewaPeellawatta">![Chiranjeewa's Profile GIF](./assets/profile_presentation.gif)</a><br>
 
 💡 _"Code. Learn. Build. Innovate."_  
 
