@@ -1,11 +1,5 @@
-
-# 👋 Hello World! I'm Chiranjeewa Peellawatta  
-
-I’m a 2nd-year undergraduate in **Software Engineering** at [SLIIT](https://www.sliit.lk), passionate about exploring, experimenting, and building innovative solutions. My goal is to master **Full Stack Development** and contribute meaningfully to the tech community.  
-
-🌱 I thrive on learning and challenging myself with new technologies and ideas. With a curious mindset and a collaborative spirit, I aim to leave a mark in the field of software engineering.  
-
----
+<!-- Header with profile GIF -->
+<a href="https://github.com/ChiranjeewaPeellawatta">![Chiranjeewa's Profile GIF](./assets/profile_presentation.gif)</a> <br><br>
 
 <!-- Trophies -->
 <h1 align="center"> 🏆 GitHub Trophies </h1>
@@ -15,79 +9,97 @@ I’m a 2nd-year undergraduate in **Software Engineering** at [SLIIT](https://ww
   </a> 
 </p>
 
+<!-- Social icons -->
+<h1 align="center"> 🌐 Social Media </h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/chiranjeewa-lankeshwara-453866305/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/DJ_RaaX">
+    <img src="https://img.shields.io/badge/X_(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/DJRaaX/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/chiranjeewalankeshwara">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/chiraax#6841">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://www.pinterest.com/chiranjeewalankeshwara/">
+    <img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+  <a href="https://www.quora.com/profile/Chiranjeewa-Lankeshwara">
+    <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
+  </a>
+</p>
 
-## 🛠 Tech Stack  
+<!-- About Me Section -->
+<h2 align="center"> 🤔 About Me 👨‍💻 </h2>
 
-### **Languages**  
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)  
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-- ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=csharp&logoColor=white)  
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)  
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-- MERN Stack (MongoDB, Express.js, React, Node.js)  
+Hi there! <br />
+I’m **Chiranjeewa Peellawatta**, a passionate **Software Engineering** undergraduate from **Sri Lanka**! 🎓  
+I love **full-stack development**, exploring **new technologies**, and experimenting with **old Android devices**.  
+I aim to become an expert in **Full Stack Development**, particularly focusing on the **MERN stack**. 🚀  
 
-### **Tools**  
-- IDEs & Code Editors: ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white), ![IntelliJ](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white), ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)  
-- Collaboration: ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white), ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white), Trello, Jira  
-- Databases: ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white), MongoDB  
-- Deployment: Netlify, Heroku  
+- 🔭 I’m currently working on [OnlineEduX - Online Examination Management System](https://github.com/ChiranjeewaPeellawatta/OnlineEduX---Online_Examination_Management_System)  
+- 🌱 I’m currently learning advanced **React**, **Node.js**, and **MongoDB**.  
+- 💬 Ask me about anything tech-related — I’m always happy to help!  
+- 🎵 Fun Fact: I enjoy collecting Android devices and relaxing with some good Spotify tunes.  
 
-### **Frameworks & Libraries**  
-- Frontend: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black), Bootstrap, Material-UI  
-- Backend: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white), Express.js  
-- State Management: Redux  
-- Testing: Jest, Mocha  
+<!-- Technologies -->
+<h1 align="center"> ⚡ Technologies & Tools </h1>
 
----
+<h3 align="center"> 💻 Languages </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
-## 🌟 Current Focus  
-- Mastering **Full Stack Development** with the **MERN Stack** (MongoDB, Express, React, Node.js).  
-- Diving into **Cloud Computing** and learning platforms like AWS and Azure.  
-- Building scalable and efficient backend architectures.  
+<h3 align="center"> 🛠️ Tools </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
----
+<h3 align="center"> 🚀 Frameworks & Libraries </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-## 📂 Project Highlights  
-1. **[Wild_Life_Safari_Management_System](https://github.com/ChiranjeewaPeellawatta/Wild_Life_Safari_Management_System)**  
-   - A system to streamline safari management with user-friendly features.  
+<!-- Stats -->
+<h1 align="center"> 📊 GitHub Stats </h1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChiranjeewaPeellawatta&show_icons=true&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiranjeewaPeellawatta&layout=compact&theme=tokyonight" height="180px" />
+</p>
 
-2. **[Starter Full Stack MERNPro](https://github.com/ChiranjeewaPeellawatta/MernPro)**  
-   - A learning-focused full-stack application built using the MERN stack.  
+<!-- Projects -->
+<h1 align="center"> 📂 Top Projects </h1>
+<p align="center">
+  <a href="https://github.com/ChiranjeewaPeellawatta/Wild_Life_Safari_Management_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiranjeewaPeellawatta&repo=Wild_Life_Safari_Management_System&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/ChiranjeewaPeellawatta/MernPro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChiranjeewaPeellawatta&repo=MernPro&theme=tokyonight" />
+  </a>
+</p>
 
-3. **[OnlineEduX - Online Examination Management System (Ongoing)](https://github.com/ChiranjeewaPeellawatta/OnlineEduX---Online_Examination_Management_System)**  
-   - A scalable platform for managing online examinations efficiently.  
-
----
-
-## 🎵 Hobbies & Fun Facts  
-- ** ⚡ Hobbies**:  
-  - Collecting old Android devices.  
-  - Discovering new music on Spotify.  
-
-- ** 😄 Fun Fact**:  
-  - I think I’m quite funny! I enjoy connecting with others and collaborating in a socialized manner.  
-
----
-
-## 📫 Let's Connect!  
-Feel free to reach out to me on any of these platforms:  
-
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chiranjeewa-lankeshwara-453866305/)  
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/DJ_RaaX)  
-- [![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/DJRaaX/)  
-- [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/chiranjeewalankeshwara)  
-- [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/chiraax#6841)  
-- [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.com/chiranjeewalankeshwara/)  
-- [![Quora](https://img.shields.io/badge/-Quora-B92B27?style=flat-square&logo=quora&logoColor=white)](https://www.quora.com/profile/Chiranjeewa-Lankeshwara)  
-
----
-
-💡 _"Code. Learn. Build. Innovate."_  
-
-
-<!---
-ChiranjeewaPeellawatta/ChiranjeewaPeellawatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Activity Graph -->
+<h1 align="center"> 🔥 Contribution Graph </h1>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChiranjeewaPeellawatta&theme=tokyo-night" />
+  </a>
+</p>
