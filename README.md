@@ -1,6 +1,8 @@
 <!-- Header with profile GIF -->
 <a href="https://github.com/ChiranjeewaPeellawatta">![Chiranjeewa's Profile GIF](./assets/profile_presentation.gif)</a> <br><br>
 
+💡 _"Code. Learn. Build. Innovate."_  
+
 <!-- Trophies -->
 <h1 align="center"> 🏆 GitHub Trophies </h1>
 <p align="left"> 
@@ -104,7 +106,7 @@ I aim to become an expert in **Full Stack Development**, particularly focusing o
   </a>
 </p>
 
-💡 _"Code. Learn. Build. Innovate."_  
+
 
 
 <!---
