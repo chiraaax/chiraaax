@@ -75,8 +75,7 @@ I specialize in **Full-Stack Development** and have a strong interest in emergin
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Data_Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />  
   <img src="https://img.shields.io/badge/DEV_C++-3C3F5D?style=for-the-badge&logo=dev-c&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
