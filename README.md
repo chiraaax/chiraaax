@@ -1,5 +1,4 @@
-<!-- Header with profile GIF -->
-<a href="https://github.com/ChiranjeewaPeellawatta">(./assets/profile_presentation.gif)</a> <br>
+
 
 💡 _"Code. Learn. Build. Innovate."_  
 
