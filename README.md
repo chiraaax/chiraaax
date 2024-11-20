@@ -41,7 +41,7 @@
 ---
 
 ### 💻 **About Me**
-Hi there! I’m **Chiranjeewa Peellawatta**, <br>
+Hi there! I’m **Chiranjeewa Peellawatta**, <br><br>
 A passionate Software Engineering undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)** 🎓  
 I specialize in **Full-Stack Development**, particularly with the **MERN stack**, and I’m constantly exploring new technologies to expand my skill set.  
 
