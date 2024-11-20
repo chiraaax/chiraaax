@@ -59,7 +59,8 @@ I think I’m a **cheerful and collaborative person** who thrives in social sett
 - [MernPro - Full-Stack MERN Application](https://github.com/ChiranjeewaPeellawatta/MernPro)  
 
 🧠 **Fun Fact**:  
-- I’m a **vintage tech enthusiast** who enjoys breathing new life into old Android devices. Whether it’s building apps or experimenting with gadgets, I’m always up for a challenge. And yes, I code to the rhythm of my favorite Spotify playlists—because who says tech and music don’t mix? 🎵  
+- I’m a **vintage tech enthusiast** passionate about giving old Android devices a modern twist. From experimenting with hardware to developing innovative apps, I enjoy transforming outdated gadgets into functional tools. Music is my constant companion while coding, with Spotify playlists providing the perfect backdrop to fuel my creativity. 🎵
+
 
 ---
 
