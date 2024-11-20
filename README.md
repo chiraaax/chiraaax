@@ -41,8 +41,8 @@
 ---
 
 ### 💻 **About Me**
-Hi there!  
-I’m **Chiranjeewa Peellawatta**, a passionate Software Engineering undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)** 🎓  
+Hi there! I’m **Chiranjeewa Peellawatta**, 
+A passionate Software Engineering undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)** 🎓  
 I specialize in **Full-Stack Development**, particularly with the **MERN stack**, and I’m constantly exploring new technologies to expand my skill set.  
 
 My journey so far has been driven by a love for problem-solving and crafting efficient, innovative solutions. Currently, I’m diving into advanced development concepts, honing my expertise in **React**, **Node.js**, **JavaScript**, and databases like **MongoDB**. I’m also deeply involved in open-source projects, where I collaborate and contribute to the global developer community.  
