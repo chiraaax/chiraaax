@@ -40,16 +40,31 @@
 
 ---
 
-### 🤔 **About Me**
+### 💻 **About Me**
 Hi there!  
-I’m **Chiranjeewa Peellawatta**, a passionate **Software Engineering** undergraduate from **Sri Lanka**! 🎓  
-I specialize in **Full-Stack Development** and have a strong interest in emerging technologies, with a particular focus on the **MERN stack**. I love experimenting with **old Android devices** and contributing to open-source projects.  
+I’m **Chiranjeewa Peellawatta**, a passionate Software Engineering undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)**! 🎓  
+I specialize in **Full-Stack Development**, particularly with the **MERN stack**, and I’m constantly exploring new technologies to expand my skill set.  
 
-- 🔭 **Currently Working On**: [OnlineEduX - Online Examination Management System](https://github.com/ChiranjeewaPeellawatta/OnlineEduX---Online_Examination_Management_System)  
-- 🌱 **Currently Learning**: Advanced **React**, **Node.js**, **MongoDB**, **PHP**, **MySQL**  
-- 🧠 **Fun Fact**: I’m a vintage Android device collector and a music enthusiast. I unwind by listening to Spotify while coding! 🎵  
+My journey so far has been driven by a love for problem-solving and crafting efficient, innovative solutions. Currently, I’m diving into advanced development concepts, honing my expertise in **React**, **Node.js**, **JavaScript**, and databases like **MongoDB**. I’m also deeply involved in open-source projects, where I collaborate and contribute to the global developer community.  
+
+Beyond the code, I’m a vintage Android device collector who loves repurposing old gadgets into something meaningful. When not building tech, I enjoy curating Spotify playlists, which keeps me in tune with both my work and life’s rhythm.  
+
+I think I’m a **cheerful and collaborative person** who thrives in social settings—whether it’s teaming up with fellow programmers or engaging with the wider tech community. Follow along as I innovate, build, and grow! 💻✨  
 
 ---
+
+🔭 **Currently Working On**:  
+- [OnlineEduX - Online Examination Management System](https://github.com/ChiranjeewaPeellawatta/OnlineEduX---Online_Examination_Management_System)  
+
+🌱 **Currently Learning**:  
+- Advanced **React**, **Node.js**, **JavaScript**, **Express.js**  
+- [MernPro - Full-Stack MERN Application](https://github.com/ChiranjeewaPeellawatta/MernPro)  
+
+🧠 **Fun Fact**:  
+I’m a **vintage tech enthusiast** who enjoys breathing new life into old Android devices. Whether it’s building apps or experimenting with gadgets, I’m always up for a challenge. And yes, I code to the rhythm of my favorite Spotify playlists—because who says tech and music don’t mix? 🎵  
+
+---
+
 
 ### ⚡ **Technologies & Tools**
 
