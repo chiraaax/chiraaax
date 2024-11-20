@@ -47,8 +47,6 @@ I specialize in **Full-Stack Development**, particularly with the **MERN stack**
 
 My journey so far has been driven by a love for problem-solving and crafting efficient, innovative solutions. Currently, I’m diving into advanced development concepts, honing my expertise in **React**, **Node.js**, **JavaScript**, and databases like **MongoDB**. I’m also deeply involved in open-source projects, where I collaborate and contribute to the global developer community.  
 
-Beyond the code, I’m a vintage Android device collector who loves repurposing old gadgets into something meaningful. When not building tech, I enjoy curating Spotify playlists, which keeps me in tune with both my work and life’s rhythm.  
-
 I think I’m a **cheerful and collaborative person** who thrives in social settings—whether it’s teaming up with fellow programmers or engaging with the wider tech community. Follow along as I innovate, build, and grow! 💻✨  
 
 ---
