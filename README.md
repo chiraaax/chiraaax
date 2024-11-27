@@ -18,7 +18,7 @@ As I navigate my journey, I’m committed to continuous learning and growth, wor
 
 Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
-- 🔭 **Currently Working On:** [MernPro-Full-Stack-CRUDapp](https://github.com/chiraaax/MernPro-Full-Stack-CRUDapp)<br><br>
+- 🔭 **Currently Working On:** [MernPro-CRUD-App](https://github.com/chiraaax/MernPro-CRUD-App)<br><br>
 - 🌱 **Learning:** Advanced React, Node.js, MongoDB, PHP, MySQL  [MERN Stack]<br><br>
 - 🧠 **Fun Fact:** I’m a vintage Android device collector and a music enthusiast who codes to the beats of Spotify—always curious, always creating, always in sync with the rhythm of life. 🎵  
 
