@@ -30,19 +30,23 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 ---
 
 # 🌐 Connect with Me
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Chiranjeewa) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Chiraax#6841) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chiranjeewalankeshwara) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam.djraax) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chiranjeewa-lankeshwara-453866305) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DJ_RaaX) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chiranjeewalankeshwara) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/chiranjeewalankeshwara) 
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Chiranjeewa-Lankeshwara) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/DJRaaX) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/chiranjeewa-lankeshwara) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@djraax) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@djraaxbychiransremixes1109) 
+
+<p align="center">
+<a href="https://behance.net/Chiranjeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Behance.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://discord.gg/Chiraax#6841" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/discord.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://facebook.com/chiranjeewalankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://instagram.com/iam.djraax" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://linkedin.com/in/chiranjeewa-lankeshwara-453866305" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://x.com/DJ_RaaX" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://medium.com/@chiranjeewalankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://pinterest.com/chiranjeewalankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Pinterest.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://quora.com/profile/Chiranjeewa-Lankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Quora.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://reddit.com/user/DJRaaX" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/reddit.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://stackoverflow.com/users/chiranjeewa-lankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://tiktok.com/@djraax" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Tik%20Tok.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://youtube.com/@djraaxbychiransremixes1109" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Chiranjeewa" height="50" width="50" /></a>
+
+</p>
 
 
 # ⚡ Tech Stack:
