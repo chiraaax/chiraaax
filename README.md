@@ -136,7 +136,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chiraaax&theme=neon-dark)](https://git.io/streak-stats)&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraaax&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraaax&layout=compact&theme=radical)
 ![Chiranjeewa's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiraaax&show_icons=true&theme=midnight-purple)
 
 ---
