@@ -10,11 +10,9 @@
 
 # 💫 About Me:
 
-Hi there! I’m Chiranjeewa Peellawatta, a passionate Software Engineering undergraduate from Sri Lanka! 🎓 I specialize in Full-Stack Development, particularly the MERN stack, and thrive on blending creativity with technical expertise to craft meaningful digital experiences.  
+Hi there! I’m Chiranjeewa Peellawatta, 
+a Software Engineering undergraduate from Sri Lanka specializing in Full-Stack Development with a focus on the MERN stack. Passionate about crafting user-centric digital solutions, I also explore emerging technologies and experiment with vintage Android devices to deepen my understanding of mobile systems. As an advocate for open-source innovation, I aim to merge functionality with simplicity while continually advancing my expertise in web development.
 
-I’m deeply intrigued by the potential of emerging technologies and enjoy experimenting with vintage Android devices, breathing new life into them while gaining hands-on insights into mobile systems. Open-source contributions fuel my passion for collaborative innovation, and I’m constantly exploring new ways to merge functionality with simplicity.  
-
-As I navigate my journey, I’m committed to continuous learning and growth, working towards mastering advanced web development techniques while creating impactful software solutions that resonate.  
 
 Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
