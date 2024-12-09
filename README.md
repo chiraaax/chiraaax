@@ -10,6 +10,8 @@
 
 # 💫 About Me:
 
+Hi there! I’m Chiranjeewa Peellawatta, 
+
 
 
 Follow along as I build, innovate, and inspire! 💻🌟<br><br>
