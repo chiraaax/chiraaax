@@ -161,7 +161,9 @@ Feel free to connect and collaborate on exciting tech projects!
 ---
 
 ### ✍️ Random Dev Quote
-*"The best way to predict the future is to create it."* 🚀
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ---
 
