@@ -30,9 +30,9 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 
 <p align="center">
-<a href="https://behance.net/Chiranjeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Behance.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://behance.net/Chiranjeewa" target="blank"><img align="center" src="https://github.com/chiraaax/chiraaax/blob/main/Images/behance%20gif.gif?raw=true" alt="Chiranjeewa" height="60" width="60" /></a> &nbsp;
 <a href="https://discord.gg/Chiraax#6841" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Chiranjeewa" height="70" width="70" /></a> &nbsp;
-<a href="https://quora.com/profile/Chiranjeewa-Lankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Quora.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://quora.com/profile/Chiranjeewa-Lankeshwara" target="blank"><img align="center" src="https://github.com/chiraaax/chiraaax/blob/main/Images/quora-hover-roll.gif?raw=true" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
 <a href="https://facebook.com/chiranjeewalankeshwara" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Chiranjeewa" height="70" width="70" /></a> &nbsp;
 <a href="https://x.com/DJ_RaaX" target="blank"><img align="center" src="https://github.com/chiraaax/chiraaax/blob/main/Images/X%20(TW).gif?raw=true" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
 <a href="https://instagram.com/iam.djraax" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Chiranjeewa" height="70" width="70" /></a> &nbsp;
@@ -40,9 +40,9 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 <a href="https://linkedin.com/in/chiranjeewa-lankeshwara-453866305" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Chiranjeewa" height="70" width="70" /></a> &nbsp;
 <a href="https://medium.com/@chiranjeewalankeshwara" target="blank"><img align="center" src="https://github.com/chiraaax/chiraaax/blob/main/Images/medium.gif?raw=true" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
 <a href="https://youtube.com/@djraaxbychiransremixes1109" target="blank"><img align="center" src="https://github.com/chiraaax/chiraaax/blob/main/Images/Youtube.gif?raw=true" alt="Chiranjeewa" height="70" width="70" /></a>
-<a href="https://reddit.com/user/DJRaaX" target="blank"><img align="center" src="https://github.com/chiraaax/chiraaax/blob/main/Images/reddit.gif?raw=true" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://reddit.com/user/DJRaaX" target="blank"><img align="center" src="https://github.com/chiraaax/chiraaax/blob/main/Images/reddit-hover-pinch.gif?raw=true" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
 <a href="https://tiktok.com/@djraax" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="Chiranjeewa" height="70" width="70" /></a> &nbsp;
-<a href="https://stackoverflow.com/users/28441994/chiranjeewa-lankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://stackoverflow.com/users/28441994/chiranjeewa-lankeshwara" target="blank"><img align="center" src="https://github.com/chiraaax/chiraaax/blob/main/Images/stack-overflow-loop-cycle.gif?raw=true" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
 <a href="https://whatsapp.com/@djraaxbychiransremixes1109" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="Chiranjeewa" height="70" width="70" /></a>
 </p>
 <br>
@@ -77,7 +77,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 </div><br>
 
 <div align="center">
-  <img width="50" src="https://cheatss.org/wp-content/uploads/2021/09/Visual-Studio-2024-1.png" alt="Visual Studio" title="Visual Studio"/>
+  <img width="50" src="https://github.com/chiraaax/chiraaax/blob/main/Images/visual-studio.gif?raw=true" alt="Visual Studio" title="Visual Studio"/>
 	<img width="50" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" title="Git"/>
 	<img width="50" src="https://github.com/chiraaax/chiraaax/blob/main/Images/github-t.gif?raw=true" alt="GitHub" title="GitHub"/>
 	<img width="50" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="Visual Studio Code" title="Visual Studio Code"/>  
@@ -125,7 +125,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 <div align="center">
   <img width="50" src="https://raw.githubusercontent.com/chiraaax/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" alt="Photoshop" title="Photoshop"/>
   <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg/512px-Adobe_Photoshop_Lightroom_CC_logo.svg.png" alt="Lightroom" title="Lightroom"/> 
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" alt="Canva" title="Canva"/> 
+  <img width="50" src="https://github.com/chiraaax/chiraaax/blob/main/Images/canva.gif?raw=true" alt="Canva" title="Canva"/> 
   <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/2048px-Wondershare_filmora_logo.svg.png" alt="Filmora" title="Filmora"/> 
 </div>
 
