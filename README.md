@@ -168,7 +168,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 <div style="display: flex; align-items: flex-start; gap:20px; margin: 0; padding: 0;">
   <img src="https://github-contributor-stats.vercel.app/api?username=chiraaax&limit=5&theme=neon&combine_all_yearly_contributions=true" 
        alt="Stats Graph" 
-       style="width: 400px; height:300px;">
+       style="width: 500px; height:300px;">
   <img src="https://github.com/chiraaax/chiraaax/blob/main/Images/flowbar.gif?raw=true" 
        alt="Image" 
        style="width: 400px; height: 200px;">
