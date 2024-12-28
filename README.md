@@ -44,19 +44,19 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 <p align="center">
 <a href="https://behance.net/Chiranjeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Behance.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
-<a href="https://discord.gg/Chiraax#6841" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/discord.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
-<a href="https://facebook.com/chiranjeewalankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
-<a href="https://instagram.com/iam.djraax" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
-<a href="https://linkedin.com/in/chiranjeewa-lankeshwara-453866305" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
-<a href="https://x.com/DJ_RaaX" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
-<a href="https://medium.com/@chiranjeewalankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
-<a href="https://pinterest.com/chiranjeewalankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Pinterest.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://discord.gg/Chiraax#6841" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Chiranjeewa" height="70" width="70" /></a> &nbsp;
 <a href="https://quora.com/profile/Chiranjeewa-Lankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Quora.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://facebook.com/chiranjeewalankeshwara" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" alt="Chiranjeewa" height="70" width="70" /></a> &nbsp;
+<a href="https://x.com/DJ_RaaX" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-logo-2.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://instagram.com/iam.djraax" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Chiranjeewa" height="70" width="70" /></a> &nbsp;
+<a href="https://pinterest.com/chiranjeewalankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Pinterest.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://linkedin.com/in/chiranjeewa-lankeshwara-453866305" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="Chiranjeewa" height="70" width="70" /></a> &nbsp;
+<a href="https://medium.com/@chiranjeewalankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Medium.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://youtube.com/@djraaxbychiransremixes1109" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" alt="Chiranjeewa" height="70" width="70" /></a>
 <a href="https://reddit.com/user/DJRaaX" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/reddit.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
+<a href="https://tiktok.com/@djraax" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" alt="Chiranjeewa" height="70" width="70" /></a> &nbsp;
 <a href="https://stackoverflow.com/users/28441994/chiranjeewa-lankeshwara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
-<a href="https://tiktok.com/@djraax" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Tik%20Tok.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
-<a href="https://youtube.com/@djraaxbychiransremixes1109" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/youtube-icon-2048x2048-gedp2icy.png" alt="Chiranjeewa" height="50" width="50" /></a>
-
+<a href="https://whatsapp.com/@djraaxbychiransremixes1109" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" alt="Chiranjeewa" height="70" width="70" /></a>
 </p>
 <br>
 
@@ -70,14 +70,14 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 
 <div align="center">
-	<img width="50" src="https://github.com/chiraaax/skill-icons/blob/main/icons/HTML.svg" alt="HTML" title="HTML"/>
-	<img width="50" src="https://github.com/chiraaax/skill-icons/blob/main/icons/CSS.svg" alt="CSS" title="CSS"/>
-	<img width="50" src="https://github.com/chiraaax/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" title="JavaScript"/>
+	<img width="50" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" alt="HTML" title="HTML"/>
+	<img width="50" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" alt="CSS" title="CSS"/>
+	<img width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" title="JavaScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#"/>  
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+	<img width="50" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="Python" title="Python"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" alt="bash" title="bash"/>
   <img width="50" src="https://www.svgrepo.com/show/441979/markdown.svg" alt="Markdown" title="Markdown"/>
@@ -91,9 +91,9 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 <div align="center">
   <img width="50" src="https://cheatss.org/wp-content/uploads/2021/09/Visual-Studio-2024-1.png" alt="Visual Studio" title="Visual Studio"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>  
+	<img width="50" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" title="Git"/>
+	<img width="50" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" title="GitHub"/>
+	<img width="50" src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="Visual Studio Code" title="Visual Studio Code"/>  
   <img width="50" src="https://github.com/chiraaax/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MYSQL" title="MYSQL"/>
   <img width="50" src="https://www.coffeecup.com/images/html-editor/html-editor-app-logo.png" alt="CoffeeCup" title="CoffeeCup"/>  
   <img width="50" src="https://www.svgrepo.com/show/331335/cisco.svg" alt="MYSQL" title="MYSQL"/> 
@@ -119,14 +119,14 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 </div><br>
 
 <div align="center">
-<img width="50" src="https://raw.githubusercontent.com/chiraaax/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Light.svg" alt="React" title="React"/>
-<img width="50" src="https://raw.githubusercontent.com/chiraaax/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NodeJS-Light.svg" alt="NodeJS" title="NodeJS"/> 
+<img width="50" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="React" title="React"/>
+<img width="50" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" alt="NodeJS" title="NodeJS"/> 
 <img width="50" src="https://raw.githubusercontent.com/chiraaax/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ExpressJS-Light.svg" alt="ExpressJS" title="ExpressJS"/> 
 <img width="50" src="https://raw.githubusercontent.com/chiraaax/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" alt="Bootstrap" title="Bootstrap"/> 
 <img width="50" src="https://raw.githubusercontent.com/chiraaax/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TailwindCSS-Light.svg" alt="TailwindCSS" title="TailwindCSS"/> 
 <img width="50" src="https://raw.githubusercontent.com/chiraaax/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/NextJS-Light.svg" alt="NextJS" title="NextJS"/> 
 <img width="50" src="https://www.svgrepo.com/show/373932/nodemon.svg" alt="nodemon" title="nodemon"/> 
-<img width="50" src="https://raw.githubusercontent.com/chiraaax/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Vite-Light.svg" alt="Vite" title="Vite"/> 
+<img width="50" src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" alt="Vite" title="Vite"/> 
 <img width="50" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" alt="ChakraUI" title="ChakraUI"/> 
 
 </div><br>
