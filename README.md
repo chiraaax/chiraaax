@@ -167,7 +167,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 	
 <div style="display: flex;">
 	<img src="https://github-contributor-stats.vercel.app/api?username=chiraaax&limit=5&theme=neon&combine_all_yearly_contributions=true"> &nbsp;
-	<img width="350" height="200" src="https://github.com/chiraaax/chiraaax/blob/main/Images/flowbar.gif?raw=true">
+	<img width="300" height="200" src="https://github.com/chiraaax/chiraaax/blob/main/Images/flowbar.gif?raw=true">
 </div>
 
 
