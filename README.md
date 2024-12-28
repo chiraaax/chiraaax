@@ -7,13 +7,9 @@
 </p>
 
 
-
-# 💫 About Me:
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="40px" /> About Me:
 
 Hi there! I’m Chiranjeewa Peellawatta, a Software Engineering undergraduate from Sri Lanka specializing in Full-Stack Development with a focus on the MERN stack. Passionate about crafting user-centric digital solutions, I also explore emerging technologies and experiment with vintage Android devices to deepen my understanding of mobile systems. As an advocate for open-source innovation, I aim to merge functionality with simplicity while continually advancing my expertise in web development.
-
-
-
 
 Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
@@ -24,23 +20,13 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 
-# 🏆 Trophy Road
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" width="45px" /> Trophy Road
+
 ![](https://github-profile-trophy.vercel.app/?username=chiraaax&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
-<div style="text-align: center;">
-  <table style="margin: 0 auto; border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td style="border: none;">
-        <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="50" />
-      </td>
-      <td style="border: none;">
-        <h1>Connect with Me</h1>
-      </td>
-    </tr>
-  </table>
-</div>
+# <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="45px" /> Connect with Me
 
 
 <p align="center">
@@ -63,7 +49,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
-# ⚡ Tech Stack:
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="45px" /> Tech Stack:
 
 <div align="center">
   <strong>💻 Languages</strong>
@@ -146,14 +132,15 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 
-# 📊 GitHub Stats:
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="45px" /> GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=chiraaax&theme=neon-dark)](https://git.io/streak-stats)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraaax&layout=compact&theme=radical)
 ![Chiranjeewa's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiraaax&show_icons=true&theme=midnight-purple)
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
-### 🔥 **Contribution Graph**
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="45px" /> Contribution Graph:
+
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=chiraaax&theme=synthwave-84" />
@@ -162,8 +149,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
-
-### 🔝 Top Contributed Repo
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" width="45px" /> Top Contributed Repo:
 	
 <div style="display: flex;">
 	<img src="https://github-contributor-stats.vercel.app/api?username=chiraaax&limit=5&theme=neon&combine_all_yearly_contributions=true"> &nbsp;
@@ -175,13 +161,13 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 
 
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f38a/512.gif" width="40px" /> Let's Build Something Amazing Together!
 
-### **✨ Let's Build Something Amazing Together!**
 Feel free to connect and collaborate on exciting tech projects!  
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
-### ✍️ Random Dev Quote
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="40px" /> Random Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -189,15 +175,21 @@ Feel free to connect and collaborate on exciting tech projects!
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 
-<p align="center">
-  <strong>💰 You can help me by Donating</strong> <br>
+<h3 align="center">
+ <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" width="35px" /> You can help me by Donating  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4b8/512.gif" width="35px" />
+  <br>
 	<img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="160" />
-</p>
+</h3>
+
 <p align="center">
   <a href="https://buymeacoffee.com/chiranjeewapeellawatta">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" 
+         alt="BuyMeACoffee" 
+         style="width: 200px; height: auto; border-radius: 25px; padding: 5px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); border: 2px solid #ffcc00;">
   </a>
 </p>
+
+
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
