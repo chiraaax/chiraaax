@@ -165,10 +165,15 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 ### 🔝 Top Contributed Repo
 	
-<div style="display: flex; align-items: center;">
-    <img src="https://github-contributor-stats.vercel.app/api?username=chiraaax&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Stats Graph" style="width: 50%; margin-right: 10px;">
-    <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Image" style="width: 50%;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=chiraaax&limit=5&theme=neon&combine_all_yearly_contributions=true" 
+         alt="Stats Graph" 
+         style="width: 50%; margin-right: 10px;">
+    <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" 
+         alt="Image" 
+         style="width: 50%;">
 </div>
+
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
