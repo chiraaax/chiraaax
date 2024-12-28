@@ -28,7 +28,19 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 ---
 
-# 🌐 Connect with Me
+<div style="text-align: center;">
+  <table style="margin: 0 auto; border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td style="border: none;">
+        <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="50" />
+      </td>
+      <td style="border: none;">
+        <h1>Connect with Me</h1>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 <p align="center">
 <a href="https://behance.net/Chiranjeewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Behance.svg" alt="Chiranjeewa" height="50" width="50" /></a> &nbsp;
@@ -169,7 +181,8 @@ Feel free to connect and collaborate on exciting tech projects!
 
 
 <p align="center">
-  <strong>💰 You can help me by Donating</strong>
+  <strong>💰 You can help me by Donating</strong> <br>
+	<img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-6767-4ab2-b6f4-a9cba3ff3591.gif" width="160" />
 </p>
 <p align="center">
   <a href="https://buymeacoffee.com/chiranjeewapeellawatta">
