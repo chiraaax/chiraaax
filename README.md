@@ -2,10 +2,9 @@
 <p align="center" ><img  src = "https://github.com/chiraaax/chiraaax/blob/main/Pixel%20GIF.gif?raw=true" width = 1000px height = 400px></p>
 <br/>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=chiraaax&label=Visitor%20Count&icon=5&pretty=true" alt="Visitor Count">
-</p>
-
+<!-- <p align="center"> 
+  <img src="https://visitcount.itsvg.in/api?id=chiraaax&label=Visitor%20Count&icon=5&pretty=true">
+</p> -->
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="40px" /> About Me:
 
