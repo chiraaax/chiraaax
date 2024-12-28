@@ -21,12 +21,13 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 - 🌱 **Learning:** Advanced React, Node.js, MongoDB, PHP, MySQL  [MERN Stack]<br><br>
 - 🧠 **Fun Fact:** I’m a vintage Android device collector and a music enthusiast who codes to the beats of Spotify—always curious, always creating, always in sync with the rhythm of life. 🎵  
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+
 
 # 🏆 Trophy Road
 ![](https://github-profile-trophy.vercel.app/?username=chiraaax&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 <div style="text-align: center;">
   <table style="margin: 0 auto; border-collapse: collapse; border: none;">
@@ -60,7 +61,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 </p>
 <br>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 # ⚡ Tech Stack:
 
@@ -142,7 +143,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
   <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/2048px-Wondershare_filmora_logo.svg.png" alt="Filmora" title="Filmora"/> 
 </div>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 
 # 📊 GitHub Stats:
@@ -150,7 +151,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiraaax&layout=compact&theme=radical)
 ![Chiranjeewa's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiraaax&show_icons=true&theme=midnight-purple)
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 ### 🔥 **Contribution Graph**
 <p align="center">
@@ -159,25 +160,33 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
   </a>
 </p>
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chiraaax&limit=5&theme=neon&combine_all_yearly_contributions=true)
+	
+<div style="display: flex; align-items: center;">
+    <img src="https://github-contributor-stats.vercel.app/api?username=chiraaax&limit=5&theme=neon&combine_all_yearly_contributions=true" alt="Stats Graph" style="width: 50%; margin-right: 10px;">
+    <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="Image" style="width: 50%;">
+</div>
 
----
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+
+
+
 
 ### **✨ Let's Build Something Amazing Together!**
 Feel free to connect and collaborate on exciting tech projects!  
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 ### ✍️ Random Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 
 <p align="center">
@@ -190,6 +199,8 @@ Feel free to connect and collaborate on exciting tech projects!
   </a>
 </p>
 
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 
   
