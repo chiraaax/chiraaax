@@ -2,6 +2,7 @@
 <p align="center" ><img  src = "https://github.com/chiraaax/chiraaax/blob/main/Pixel%20GIF.gif?raw=true" width = 1000px height = 400px></p>
 <br/>
 
+
 <!-- <p align="center"> 
   <img src="https://visitcount.itsvg.in/api?id=chiraaax&label=Visitor%20Count&icon=5&pretty=true">
 </p> -->
@@ -193,6 +194,7 @@ Feel free to connect and collaborate on exciting tech projects!
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+<br>
 
 
   
