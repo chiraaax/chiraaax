@@ -2,10 +2,6 @@
 <p align="center" ><img  src = "https://github.com/chiraaax/chiraaax/blob/main/Pixel%20GIF.gif?raw=true" width = 1000px height = 400px></p>
 <br/>
 
-<-- <p align="center"> 
-  <img src="https://visitcount.itsvg.in/api?id=chiraaax&label=Visitor%20Count&icon=5&pretty=true">
-</p> -->
-
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="40px" /> About Me:
 
 Hi there! I’m Chiranjeewa Peellawatta, a Software Engineering undergraduate from Sri Lanka specializing in Full-Stack Development with a focus on the MERN stack. Passionate about crafting user-centric digital solutions, I also explore emerging technologies and experiment with vintage Android devices to deepen my understanding of mobile systems. As an advocate for open-source innovation, I aim to merge functionality with simplicity while continually advancing my expertise in web development.
