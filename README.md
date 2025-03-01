@@ -1,5 +1,5 @@
 <p align="center" ><img  src = "https://github.com/chiraaax/chiraaax/blob/main/Pixel%20GIF.gif?raw=true" width = 1000px height = 400px></p>
-<br/>
+
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2728/512.gif" width="40px" /> About Me:
 
