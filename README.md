@@ -7,7 +7,7 @@ Hi there! I’m Chiranjeewa Peellawatta, a Software Engineering undergraduate fr
 
 Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
-- 🔭 **Currently Working On:** [Mern-GitHub-App](https://github.com/chiraaax/Mern-GitHub-App)<br><br>
+- 🔭 **Currently Working On:** [Alpha-IT-Solutions-IT-Project](https://github.com/chiraaax/Alpha-IT-Solutions_IT-Project)<br><br>
 - 🌱 **Learning:** Advanced React, Node.js, MongoDB, PHP, MySQL  [MERN Stack]<br><br>
 - 🧠 **Fun Fact:** I’m a vintage Android device collector and a music enthusiast who codes to the beats of Spotify—always curious, always creating, always in sync with the rhythm of life. 🎵  
 
