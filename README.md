@@ -16,7 +16,7 @@ Follow along as I build, innovate, and inspire! 💻🌟<br><br>
 
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f52e/512.gif" width="45px" /> Trophy Road
 
-![](https://github-profile-trophy.vercel.app/?username=chiraaax&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=chiraaax&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
